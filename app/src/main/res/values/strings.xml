@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DrexelEWBApp</string>
+    <string name="login">Login</string>
+    <string name="emailaddress">EmailAddress</string>
+    <string name="failed_attempts">Failed Attempts:</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="info_text">Engineers Without Borders International (EWB-I) is an association of individual Engineers Without Borders/Ingenieurs Sans Frontieres groups. EWB-I facilitates collaboration and the exchange of information among the member groups. EWB-I helps its member groups develop their capacity to assist underserved communities in their respective countries and around the world.">InfoBrief</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Sign in</string>
+    <string name="dummy_content">Welcome</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_info">InfoActivity</string>string>
+</resources>
